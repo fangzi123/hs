@@ -72,7 +72,7 @@
 								required>
 						</p>
 						<p>
-							<button class="btn-lg btn-danger">加入购物车</button>
+							<a class="btn-lg btn-danger" href="<%=ctx%>/cart" target="_blank">加入购物车</a>
 							&nbsp;<a class="btn-lg btn-danger" href="<%=ctx%>/ordernew"
 								target="_blank">立即购买</a>
 						</p>
