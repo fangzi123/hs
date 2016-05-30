@@ -81,7 +81,7 @@
 									class="col-md-5 ">￥190.00</span>
 							</p>
 							<p class="pull-right">
-								<a class="btn-lg btn-danger" href="pay.jsp" role="button">提交订单&raquo;</a>
+								<a class="btn-lg btn-danger" href="pay" role="button">提交订单&raquo;</a>
 							</p>
 						</div>
 					</div>
